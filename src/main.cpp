@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <heltec.h>
 
-#define BAND 433E6
+#define BAND 915E6
 #define btn 13
 
 String message = "FOXTROT";
